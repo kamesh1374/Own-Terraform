@@ -1,0 +1,14 @@
+Task:
+1.)Difference Between AWS Filter and Query
+
+2.)How to stop the instance in AWS CLI
+
+3.)By using Data source we need to Set a AMI ID(Ubuntu 20)
+
+4.)The main Purpose of  Terraform lock.hcl
+
+5.)Instead of using local exec use Remote exec
+
+6.)Alignment
+
+7.)Tf module

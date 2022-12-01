@@ -1,0 +1,44 @@
+AWS Filter in CLI:
+--------------------
+		*The AWS Command Line Interface (AWS CLI) has both server-side and client-side filtering that we can use individually or together to filter our AWS CLI output. 
+		
+		*Server-side filtering is processed first and returns your output for client-side filtering.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AWS Query in CLI:
+---------------------
+		*The query parameter is a powerful tool we can use to customize the content and style of our output.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Diffrenece between AWS query and AWS Filter:
+----------------------------------------------------
+		*Filter is the condition used to select which resources we want described, listed, etc. 
+		
+		*Query is the list of fields that we want returned in the response
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Terraform lock hcl:
+---------------------		
+		*It is a lock file for various items that Terraform caches in the . terraform subdirectory of our working directory. 
+		
+		*Terraform automatically creates or updates the dependency lock file each time we run the terraform init command.
+
+Terraform module:
+-----------------------
+		*A Terraform module is a set of Terraform configuration files in a single directory. Even a simple configuration consisting of a single directory with one or more .tf files is a module. 
+		
+		*When you run Terraform commands directly from such a directory, it is considered the root module.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+inline:
+-------
+		*This is a list of command strings. The provisioner uses a default shell unless you specify a shell as the first command
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+provisioner:
+--------------
+		*Provisioners are used to execute scripts on a local or remote machine as part of resource creation or destruction
+		
+		*Provisioner are used for excuting script or shell command as a part of resource creation
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+puppet in provisioner:
+------------------------
+		*To pull the strings on multiple application servers at once

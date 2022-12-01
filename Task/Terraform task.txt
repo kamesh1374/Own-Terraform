@@ -1,0 +1,16 @@
+Task 1:-
+1.Create an Ec2 Instance Using Terraform
+
+Task 2:-
+1.Make Secure Access Key and Secret Key
+
+2. Terraform variable (Instance _Type,AMI_ID,Key_Name)
+
+3.Show Instance Public IP
+
+Task 3:-
+1.To Create a Ec2 Instance Using AWS CLI commands
+
+2.Store the Terraform tf state in S3 Bucket
+
+3.By Using Local exe to get Private IP
